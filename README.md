@@ -19,6 +19,9 @@ Reducción de dimensionalidad (PCA, t-SNE, UMAP), clustering y clasificadores kN
 **[Clasificación de malaria con CNN](https://github.com/samuelespitia2000/clasificacion-CNN-malaria)**
 Red neuronal convolucional (TensorFlow/Keras) para distinguir células infectadas vs. sanas a partir de imágenes de microscopía (90.6% accuracy).
 
+**[Bioestadística aplicada a expresión génica](https://github.com/samuelespitia2000/bioestadistica-expresion-genica)**
+PCA, clustering, heatmaps y 5 modelos de regresión logística comparados con ROC/AUC y Precision-Recall sobre datos de expresión génica.
+
 ---
 
 ### Stack técnico
